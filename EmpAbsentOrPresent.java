@@ -1,4 +1,4 @@
-package empwage;
+//package empwage;
 
 public class EmpAbsentOrPresent 
 {
@@ -15,7 +15,6 @@ public class EmpAbsentOrPresent
 			salary = FULL_DAY_HOUR*WAGE_PER_HOUR;
 			
 		System.out.println("Employee's Daily Wage is "+salary);
-	//  System.out.printf("Employee's Daily Wage is %d",salary);
 			
 		
 		
