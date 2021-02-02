@@ -1,4 +1,4 @@
-//package empwage;
+package empwage;
 
 public class EmpAbsentOrPresent 
 {
