@@ -1,6 +1,6 @@
 package empwage;
 
-public class EmpAbsentOrPresent 
+public class EmployeeWageComputationProblem
 {
 	public static void main(String[] args) 
 	{
