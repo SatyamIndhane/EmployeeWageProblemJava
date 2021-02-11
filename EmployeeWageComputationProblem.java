@@ -25,6 +25,7 @@ public class EmployeeWageComputationProblem
 		this.totalWorkingHours = totalWorkingHours;
 	}
 	
+	
 	// Main 
 	public static void main(String[] args) 
 	{
@@ -66,6 +67,7 @@ public class EmployeeWageComputationProblem
 		totalSalary = hourCount * o.wagePerHour; 
 		return totalSalary;
 	}
+	
 
 }
 
